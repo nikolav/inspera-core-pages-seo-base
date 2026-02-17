@@ -1,4 +1,4 @@
-🧑👩 strana 'tim' ima dobija dosta impresija iako deluje kao prazan ui sa slikama
+🧑 strana 'tim' ima dobija dosta impresija iako deluje kao prazan ui sa slikama
 treba bogatiji sadrzaj za jacanje poverenja i da posluzi kao 'vodic' za izbor terapeuta
 implementirati potpuniji pregled tima, pretragu, pomoc u izboru, zakazivanje
 🎯rangira za: 'psihoterapeut u beogradu? kako da odlucim? kako da zakazem?'
