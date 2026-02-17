@@ -3,6 +3,7 @@ treba bogatiji sadzraj za jacanje poverenja i da posluzi kao 'vodic' za izbor te
 implementirati potpuniji pregled tima, pretragu, pomoc u izboru, zakazivanje
 🎯rangira za: 'psihoterapeut u beogradu? kako da odlucim? kako da zakazem?'
 
+==
 head
   title
     - 'Psiholog i psihoterapeut Beograd | Centar Inspera tim'
