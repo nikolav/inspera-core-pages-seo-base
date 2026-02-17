@@ -85,8 +85,8 @@ plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
 
 kratak FAQ: <accorion>
 - Kako zakazati?
-- Koliko traje seansa?
 - Da li je terapija poverljiva?
+- Koliko traje seansa?
 - Da li radite online?
 
 │--------------------------------------------------------------│

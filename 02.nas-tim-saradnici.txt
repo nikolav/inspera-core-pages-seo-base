@@ -16,9 +16,9 @@ implementirati potpuniji pregled tima, pretragu, pomoc u izboru, zakazivanje
 |
 │        [ Lokacije  | Radno vreme | Telefon | Map link]                │
 ├───────────────────────────────────────────────────────────────────────┤
-│ H2: Kako izabrati psihoterapeuta?                       │
+│ H2: Kako izabrati psihoterapeuta?                                     │
 │ - par saveta za izbor (tema, stil, pravac, dostupnost)                │
-│                  [ Kratak vodič za izbor ]                                    │
+│                  [ Kratak vodič za izbor ]                            │
 ├───────────────────────────────────────────────────────────────────────┤
 │ H2: Pronađite terapeuta prema oblasti rada                             │
 │     [ 🔍 search, category, chips, filter, sort ]                       │
