@@ -1,5 +1,5 @@
 🏠 servisna strana
-treba usmeren intent na uslugu i zakazivanje
+treba usmeren intent na usluge i zakazivanje
 
 kljucne pretrage za koje mora bolja optimizacija:
   1. 📣 PSIHOTERAPIJA BEOGRAD, ZAKAZIVANJE SEANSE
@@ -8,7 +8,7 @@ kljucne pretrage za koje mora bolja optimizacija:
   4. zakazivanje seanse
 
 plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
-rangira za: 'psihoterapija/psihoterapeut beograd + zakazivanje seanse':
+🎯RANGIRA ZA: 'PSIHOTERAPIJA/PSIHOTERAPEUT BEOGRAD + ZAKAZIVANJE SEANSE':
 
 ==
 <html lang=sr>
