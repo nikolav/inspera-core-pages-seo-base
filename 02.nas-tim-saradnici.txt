@@ -1,6 +1,7 @@
-🧑👩 tim strana ima dobija dosta impresija iako deluje kao prazan ui sa slikama
+🧑👩 strana 'tim' ima dobija dosta impresija iako deluje kao prazan ui sa slikama
 treba bogatiji sadzraj za jacanje poverenja i da posluzi kao 'vodic' za izbor terapeuta
-potpuniji pregled tima, pretraga, pomoc u izboru, zakazivanje
+implementirati potpuniji pregled tima, pretragu, pomoc u izboru, zakazivanje
+
 🎯RANGIRA ZA: 'PSIHOTERAPEUT U BEOGRADU? KAKO DA ODLUCIM? KAKO DA ZAKAZEM?'
 
 ├───────────────────────────────────────────────────────────────────────┤
