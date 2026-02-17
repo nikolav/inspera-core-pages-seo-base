@@ -82,7 +82,7 @@ plan migracije od brand strane ka lokalnom servisu sa jasnim intentom
 │   [Zakazivanje seanse]     [Kontakt]                         │
 └──────────────────────────────────────────────────────────────┘
 
-kratak FAQ: <accorion>
+kratak FAQ: <accordion>
 - Kako zakazati?
 - Da li je terapija poverljiva?
 - Koliko traje seansa?
