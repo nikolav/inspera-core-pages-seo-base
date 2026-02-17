@@ -13,11 +13,10 @@ plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
 ==
 <html lang=sr>
   <head>
-    meta
-      title, ~50-60 znakova
-        - 'Psihoterapija u Beogradu - Centar Inspera. Zakazivanje seansi.'
-      desciprion, ~150–160 znakova
-        - 'Centar Inspera u Beogradu pruža psihoterapiju, savetovanje i podršku za anksioznost i stres. Tim terapeuta, siguran prostor. Zakazivanje seanse.'
+    title, ~50-60 znakova
+      - 'Psihoterapija u Beogradu - Centar Inspera. Zakazivanje seansi.'
+    meta:desciprion, ~150–160 znakova
+      - 'Centar Inspera u Beogradu pruža psihoterapiju, savetovanje i podršku za anksioznost i stres. Tim terapeuta, siguran prostor. Zakazivanje seanse.'
   og, twitter tagovi
   script json+ld schema
 
