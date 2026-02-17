@@ -7,7 +7,7 @@ kljucne pretrage za koje mora bolja optimizacija:
   3. psihološko savetovalište
   4. zakazivanje seanse
 
-plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
+plan migracije od brand strane ka lokalnom servisu sa jasnim intentom
 🎯rangira za: 'psihoterapija/psihoterapeut beograd + zakazivanje seanse':
 
 ==
