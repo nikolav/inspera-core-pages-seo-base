@@ -9,8 +9,9 @@ fale dodatni unutrasnji linkovi ka ostalim uslugama i vaznim stranama.
     + jace povezuje pretragu 'psihoterapija beograd' sa 'inspera' klinikom
 
 
-== par predloga
-(jasna povezanost pretraga 'psihoterapija beograd' i 'centar inspera')
+par predloga:
+
+== (jasna povezanost pretraga 'psihoterapija beograd' i 'centar inspera')
 
 O nama — Centar Inspera, psihoterapija u Beogradu
 
