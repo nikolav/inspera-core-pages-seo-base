@@ -41,8 +41,8 @@ head
 │ └───────────────────────┘  └───────────────────────┘...              │
 └───────────────────────────────────────────────────────────────────────┘
 │ H2: Najčešća pitanja
-│ ▸ Kako da zakažem termin kod psihoterapeuta u Beogradu?                │
 │ ▸ Da li mi treba psiholog ili psihoterapeut?                           │
+│ ▸ Kako da zakažem termin kod psihoterapeuta u Beogradu?                │
 │ ▸ Koliko traje jedna seansa i koliko često se dolazi?                  │
 │ ▸ Šta znači “psihoterapeut pod supervizijom”?                          │
 │ ▸ Da li radite online psihoterapiju?                                   │
