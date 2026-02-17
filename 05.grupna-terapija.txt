@@ -1,8 +1,13 @@
 strana 'grupna-terapija'
 korisnici koji kucaju 'grupna psihoterapija' dobijaju specifican odgovor o psihodrami sto ogranicava rangiranje u generalnim pretragama vezanim za 'psihoterapiju u grupi'.
 dodati uvod i info za korisnike koji traze generalnu grupnu terapiju.
+promasen <meta:description> za pretragu 'grupna terapija'. ("Centar za lični razvoj i edukaciju Inspera savetnicima, terapeutima u procesu edukacije i licenciranim psihoterapeutima omogućava sticanje i razvoj edukativnih i praktičnih znanja."?)
 🎯rangira za: sta je grupna terapija? da li je to za mene? kako da se prijavim za grupnu terapiju?
 
+==
+head
+  <meta:descrption> 
+    "Grupna psihoterapija u Centru Inspera u Beogradu. Psihodramska grupa ponedeljkom, podrška terapeuta, prijava i detalji o uključivanju."
 
 ┌───────────────────────────────────────────────┐
 │ H1: Grupna psihoterapija u Beogradu           │
