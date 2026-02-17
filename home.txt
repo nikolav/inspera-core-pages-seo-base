@@ -1,21 +1,21 @@
 🏠 servisna strana
 treba usmeren intent na uslugu i zakazivanje
-kljucne pretrage (GSC) za koje mora bolja optimizacija
 
-1. 📣 PSIHOTERAPIJA BEOGRAD, ZAKAZIVANJE SEANSE
-2. psihoterapija / psiholog / psihoterapeut beograd
-3. psihološko savetovalište
-4. zakazivanje seanse
+kljucne pretrage za koje mora bolja optimizacija:
+  1. 📣 PSIHOTERAPIJA BEOGRAD, ZAKAZIVANJE SEANSE
+  2. psihoterapija / psiholog / psihoterapeut beograd
+  3. psihološko savetovalište
+  4. zakazivanje seanse
 
 plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
-rangira za 'psihoterapija/psihoterapeut beograd + zakazivanje seanse'
+rangira za: 'psihoterapija/psihoterapeut beograd + zakazivanje seanse':
 
 ==
 <html lang=sr>
   <head>
     meta
       title, ~50-60 znakova
-        - 'Psihoterapija u Beogradu - Centar Inspera. Zakazivanje seansi.' i sl.
+        - 'Psihoterapija u Beogradu - Centar Inspera. Zakazivanje seansi.'
       desciprion, ~150–160 znakova
         - 'Centar Inspera u Beogradu pruža psihoterapiju, savetovanje i podršku za anksioznost i stres. Tim terapeuta, siguran prostor. Zakazivanje seanse.'
   og, twitter tagovi
@@ -36,7 +36,7 @@ rangira za 'psihoterapija/psihoterapeut beograd + zakazivanje seanse'
 └──────────────────────────────────────────────────────────────┘
 
 │--------------------------------------------------------------│
-│  H2: Kako vam možemo pomoći?                                 │
+│  H2: Kako vam možemo pomoći? (trazene usluge)                │
 │                                                              │
 │  [Psihoterapeut u Beogradu]   [Psihološko savetovalište]     |
 │                                                              │
@@ -45,16 +45,17 @@ rangira za 'psihoterapija/psihoterapeut beograd + zakazivanje seanse'
 |                  [Zakazivanje seanse]                        |
 └──────────────────────────────────────────────────────────────┘
 
-│----------------------------------------------------------------│
-│ H2: Objašnjenje pristupa, siguran prostor, timski rad, ukratko │
-│                                                                │
-│  ✔ Individualni pristup                                       │
+│--------------------------------------------------------------│
+│ H2: Objašnjenje pristupa, siguran prostor, timski rad        |
+│                                                              | 
+│  ✔ Individualni pristup                                      │
 │  ✔ Savetovaliste                                             │
 │  ✔ Grupna terapija                                           │
+│  ✔ Psihoterapija za decu                                     │
 │  ✔ Licencirani terapeuti                                     │
 │  ✔ Beograd i online                                          │
 │                                                              │
-│  [Saznajte više o nama]                                      │
+│                 [Saznajte više o nama]                       │
 └──────────────────────────────────────────────────────────────┘
 
 │--------------------------------------------------------------│
@@ -68,12 +69,12 @@ rangira za 'psihoterapija/psihoterapeut beograd + zakazivanje seanse'
 └──────────────────────────────────────────────────────────────┘
 
 │--------------------------------------------------------------│
-│  H2: Naš tim psihoterapeuta                                  │
+│  H2: Naš tim psihoterapeuta, <slider>                        │
 │                                                              │
 │  [Profil terapeuta]  [Profil terapeuta]  [Profil terapeuta]  │
 │  Marina Nikolić      Jelena Lekić       ...                  │
 │                                                              │
-│  [Upoznajte ceo tim]                                         │
+│                    [Upoznajte ceo tim]                       │
 └──────────────────────────────────────────────────────────────┘
 
 │--------------------------------------------------------------│
@@ -82,7 +83,7 @@ rangira za 'psihoterapija/psihoterapeut beograd + zakazivanje seanse'
 │   [Zakazivanje seanse]     [Kontakt]                         │
 └──────────────────────────────────────────────────────────────┘
 
-kratak FAQ:
+kratak FAQ: <accorion>
 - Kako zakazati?
 - Koliko traje seansa?
 - Da li je terapija poverljiva?
