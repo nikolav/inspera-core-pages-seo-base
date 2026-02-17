@@ -1,5 +1,5 @@
 strana 'grupna-terapija'
-korisnici koji kucaju 'grupna psihoterapija' dobijaju specifican odgovor o psihodrami sto ogranicavarangiranje generalnih pretraga vezanih za 'psihoterapiju u grupi'.
+korisnici koji kucaju 'grupna psihoterapija' dobijaju specifican odgovor o psihodrami sto ogranicava rangiranje u generalnim pretragama vezanim za 'psihoterapiju u grupi'.
 dodati uvod i info za korisnike koji traze generalnu grupnu terapiju.
 🎯rangira za: sta je grupna terapija? da li je to za mene? kako da se prijavim za grupnu terapiju?
 
