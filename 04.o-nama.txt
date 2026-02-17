@@ -4,7 +4,9 @@ nedostaje lokalni signal, beograd i okolina.
 za teme mentalnog zdravlja fale konkretni elemenati autoriteta. 
 seo semantika je lose pokrivena terminima. 
 fale dodatni unutrasnji linkovi ka ostalim uslugama i vaznim stranama.
-🎯rangira za: brend centar inspera + jace povezuje pretragu 'psihoterapija beograd' sa 'inspera' klinikom
+🎯rangira za:
+  ✔ brend centar inspera 
+    + jace povezuje pretragu 'psihoterapija beograd' sa 'inspera' klinikom
 
 
 == par predloga
