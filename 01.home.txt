@@ -9,7 +9,7 @@ kljucne pretrage za koje mora bolja optimizacija:
 
 plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
 
-🎯RANGIRA ZA: 'PSIHOTERAPIJA/PSIHOTERAPEUT BEOGRAD + ZAKAZIVANJE SEANSE':
+🎯rangira za: 'psihoterapija/psihoterapeut beograd + zakazivanje seanse':
 
 ==
 <html lang=sr>

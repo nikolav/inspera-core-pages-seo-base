@@ -2,7 +2,7 @@
 treba bogatiji sadzraj za jacanje poverenja i da posluzi kao 'vodic' za izbor terapeuta
 implementirati potpuniji pregled tima, pretragu, pomoc u izboru, zakazivanje
 
-🎯RANGIRA ZA: 'PSIHOTERAPEUT U BEOGRADU? KAKO DA ODLUCIM? KAKO DA ZAKAZEM?'
+🎯rangira za: 'psihoterapeut u beogradu? kako da odlucim? kako da zakazem?'
 
 ├───────────────────────────────────────────────────────────────────────┤
 │ H1: Psihoterapeuti i psiholozi u Beogradu – Tim Centra Inspera         │
