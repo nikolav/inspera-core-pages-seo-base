@@ -8,7 +8,6 @@ kljucne pretrage za koje mora bolja optimizacija:
   4. zakazivanje seanse
 
 plan migracije od brand strane ka lokalnom servisu sa jasnim intetom
-
 🎯rangira za: 'psihoterapija/psihoterapeut beograd + zakazivanje seanse':
 
 ==
