@@ -3,12 +3,12 @@ treba usmeren intent na usluge i zakazivanje
 
 kljucne pretrage za koje mora bolja optimizacija:
   1. 📣 PSIHOTERAPIJA BEOGRAD, ZAKAZIVANJE SEANSE
-  2. psihoterapija / psiholog / psihoterapeut beograd
+  2. psihoterapija beograd
   3. psihološko savetovalište
   4. zakazivanje seanse
 
 plan migracije od brand strane ka lokalnom servisu sa jasnim intentom
-🎯rangira za: 'psihoterapija/psihoterapeut beograd + zakazivanje seanse':
+🎯rangira za: 'psihoterapija beograd + zakazivanje seanse':
 
 ==
 <html lang=sr>
