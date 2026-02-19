@@ -1,5 +1,14 @@
 
-# Anksioznost
+- grupisani upiti o poremecajima po oblasti
+- procena trenutne pokrivenosti intenta
+- predlog za bolju pokrivenost namere korisnika:
+   > svaki poremecaj na posebnu stranu
+   > ako je pokriven u blogovima dopuniti seo optimizovanim h1/h2 sekcijama
+   > linkovati sa /home strane (sekcija H2:razlozi dolaska na psihoterapiju)
+
+==
+
+# Anksioznost (trenutna pokrivenost: 6/10)
 najbolji lek za anksioznost
 anksioznost
 lekovi za anksioznost
@@ -20,7 +29,7 @@ da li se anksioznost moze izleciti
 terapija za anksioznost
 najdobar lek za anksioznost
 
-# Napadi panike
+# Napadi panike (trenutna pokrivenost: 8/10)
 napad panike
 napad panike simptomi
 kako izgleda napad panike
@@ -34,7 +43,7 @@ panicni napadi simptomi
 kako izgleda napad anksioznosti
 napad panike kako izgleda
 
-# Granični poremećaj ličnosti (BPD)
+# Granični poremećaj ličnosti BPD (trenutna pokrivenost: 5/10)
 granicni poremecaj licnosti iskustva
 granični poremećaj ličnosti
 granicni poremecaj licnosti i porodica
@@ -45,7 +54,7 @@ sta je granicni poremecaj licnosti
 granicni poremecaj licnosti i posao
 granicni poremecaj licnosti
 
-# Burnout / Sindrom izgaranja
+# Burnout / Sindrom izgaranja (trenutna pokrivenost: 5/10)
 burnout sindrom
 burnout
 burnout simptomi
@@ -58,7 +67,7 @@ sindrom izgaranja na poslu
 burnout na poslu
 bolest burnout
 
-# Imposter sindrom
+# Imposter sindrom (trenutna pokrivenost: 6/10)
 imposter sindrom
 imposter sindrom sta je
 sta je imposter sindrom
@@ -66,24 +75,16 @@ sta je imposter
 imposter
 импостер
 
-# Patološka ljubomora
+# Patološka ljubomora (trenutna pokrivenost: 4/10)
 patoloska ljubomora
 patoloska ljubomora iskustva
 patološka ljubomora
 patoloska ljubav
 
-# Empatija – deficit / poremećaj u funkcionisanju
+# Empatija – deficit / poremećaj u funkcionisanju (trenutna pokrivenost: 9/10)
 ljudi bez empatije
 nedostatak empatije
 nedostatak empatije kod odraslih
 osoba bez empatije
 osobe bez empatije
 manjak empatije
-
-# Ostali psihološki problemi / stanja
-osoba bez emocija
-ljudi bez emocija
-mentalno opterećenje
-pet faza tugovanja
-stid
-
