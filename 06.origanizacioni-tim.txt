@@ -79,7 +79,6 @@ H2: Naš model organizacije rada - Inspera sistem
 
 H2: Članovi organizacionog tima
 
-<VCard>
 ○ Ime Prezime — Koordinator projekta   - Slika - [ Profil ]
 ○ Ime Prezime — Podrška klijentima     - Slika - [ Profil ]
 ○ Ime Prezime — Organizacija edukacija - Slika - [ Profil ]
