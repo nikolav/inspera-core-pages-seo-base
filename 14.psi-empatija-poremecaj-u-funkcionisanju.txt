@@ -14,7 +14,7 @@ Kratak uvod:
 - Da li je to poremećaj?
 - Poruka: empatija se može razvijati
 
-  [ Zakažite razgovor]
+  [ Zakažite razgovor ]
 
 ==
   
@@ -63,7 +63,7 @@ H2: Terapija i rad na emocionalnom funkcionisanju
 - regulacija emocija
 - poboljšanje odnosa
 
-  [ Zakažite razgovor]
+  [ Zakažite razgovor ]
 
 ==
   
@@ -79,6 +79,6 @@ ZAVRŠNI BLOK
 - trust, cta
 - Empatija nije slabost – ona je veština koja se može razvijati.
 
-  [Zakažite termin]
+  [ Zakažite termin ]
 
 ==

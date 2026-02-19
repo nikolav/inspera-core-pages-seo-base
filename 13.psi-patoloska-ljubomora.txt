@@ -14,7 +14,7 @@ Kratak uvod:
 - Razlika između normalne i preterane ljubomore
 - Poruka: moguće je promeniti obrazac
 
-  [ Zakažite razgovor]
+  [ Zakažite razgovor ]
 
 ==
   
@@ -63,7 +63,7 @@ H2: Terapija za patološku ljubomoru
 - regulacija emocija
 - partnerska terapija (ako je potrebno)
 
-  [ Zakažite razgovor]
+  [ Zakažite razgovor ]
   
 ==
   
@@ -79,6 +79,6 @@ ZAVRŠNI BLOK
 - trust, cta
 - Ljubomora može biti signal nesigurnosti – ali i prilika za rast.
 
-  [Zakažite termin]
+  [ Zakažite termin ]
 
 ==
