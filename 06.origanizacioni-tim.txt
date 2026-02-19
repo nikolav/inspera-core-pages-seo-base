@@ -1,0 +1,105 @@
+🧭 strana 'organizacioni-tim'
+skroman naslov i cetiri slike sa imenima
+malo sadrzaja da pretrazivac sklopi sliku o cemu se radi na ovoj strani
+primarni cilj ovde je da strana ulije vise poverenja korisnicima rad centra (trust seo)
+korisno za korisnike pred zakazivanje, i za google 'kontrolu kvaliteta'
+🎯rangira za:
+  odgovori na ptanaja:
+    > kako sve funkcionise
+    > ko koordinirta terapeute
+    > ko vodi projekte i edukacije
+    > oranizacija tima psihoterapeuta
+    > ko stoji iza svega
+
+
+==
+head:
+  title
+    - "Organizacioni tim Centra Inspera – način rada i koordinacija terapeuta"
+  meta:description
+    - "Upoznajte organizacioni tim Centra Inspera i način na koji koordiniramo rad terapeuta, zakazivanje termina, superviziju i podršku klijentima u Beogradu."
+
+body:
+
+(hero)
+┌──────────────────────────────────────────────────────────────┐
+│  ORGANIZACIONI TIM CENTRA INSPERA                            │
+│  (način rada + koordinacija terapeuta)                       │
+└──────────────────────────────────────────────────────────────┘
+
+==
+
+H1: Organizacioni tim Centra Inspera
+
+(uvodni blok, 200–300 reči)
+- Kako je organizovan rad savetovališta
+- Koordinacija terapeuta, podrška klijentima, supervizija
+- Negujemo profesionalan, organizovan i siguran okvir za psihoterapijski rad u Beogradu.
+
+==
+
+H2: Kako je organizovan rad Centra Inspera?
+
+✔ Prvi kontakt i prijem klijenata
+✔ Zakazivanje i logistika termina
+✔ Povezivanje sa terapeutom prema potrebama
+✔ Kontinuitet i praćenje procesa
+
+==
+
+H2: Uloga organizacionog tima u psihoterapijskom procesu
+(fokus na uspostavljanje poverenja, prodaja nije prvi plan ovde)
+- Organizacija kao deo sigurnog terapijskog okvira
+- Diskrecija, poverljivost i etički standardi
+- Podrška klijentima pre i tokom terapije
+
+==
+
+H2: Koordinacija terapeuta i stručna supervizija
+(osvrt na kadar, struku, itd., da korisnik stekne utisak da je ozbiljna ustanova)
+- Tim okuplja terapeute različitih pravaca
+- Redovna supervizija i stručni razvoj
+- Organizacija interne saradnje i kvaliteta rada
+
+==
+
+H2: Naš model organizacije rada - Inspera sistem
+
+┌───────────────┬───────────────┬───────────────┐
+│ Podrška       │ Koordinacija  │ Supervizija   │
+│ klijentima    │ terapeuta     │ i edukacije   │
+└───────────────┴───────────────┴───────────────┘
+
++ Zakazivanje
++ Administrativna podrška
++ Organizacija programa i radionica
+
+==
+
+H2: Članovi organizacionog tima
+
+<VCard>
+○ Ime Prezime — Koordinator projekta   - Slika - [ Profil ]
+○ Ime Prezime — Podrška klijentima     - Slika - [ Profil ]
+○ Ime Prezime — Organizacija edukacija - Slika - [ Profil ]
+
+(+2-3 rečenice za svaku karticu, ne samo titula)
+
+==
+
+H2: Najčešća pitanja o organizaciji rada
+
+FAQ:
+- Kako se zakazuje prvi termin?
+- Da li organizacioni tim pomaže u izboru terapeuta?
+- Ko odgovara na upite klijenata?
+- Kako funkcioniše supervizija?
+
+──────────────────────────────────────────────────────────────
+
+H2: Kontakt i zakazivanje
+
+-Pitanje o organizaciji ili zakazivanju?
+ [ Zakažite termin ]  [ Kontakt ]
+ 
+ [Pitanja i odgovori] [ Usluge ]
