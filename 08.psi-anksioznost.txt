@@ -30,7 +30,7 @@ H2: Simptomi anksioznosti
   H3: Psihički simptomi..
   H3: Napad anksioznosti – kako izgleda (kratko, jasno)
   
-  [ Javite se aki prepoznajete simptome ]
+  [ Javite se ako prepoznajete simptome ]
 
 ==
 
@@ -45,7 +45,8 @@ H2: Lekovi za anksioznost – da li postoji “najbolji lek”?
 - kada se razmatraju lekovi (u dogovoru sa psihijatrom)
 - zašto ne postoji univerzalno “najbolji lek”
 - lekovi: ublažavanje simptoma ≠ rešavanje uzroka
-  [Link/box: “Kada je terapija prvi izbor?” → sledeća sekcija]
+
+  [ Kada je terapija prvi izbor? (blog ili sekcija)]
 
 ==
   
@@ -53,7 +54,8 @@ H2: Terapija za anksioznost – kako lečiti anksioznost dugoročno
 - kako psihoterapija pomaže (okidači, obrasci, regulacija)
 - koje metode / pristupi (ukratko, bez previše škole)
 - kako izgleda prvi susret / plan rada
-[CTA BLOK: Zakažite seansu (uživo/online) + telefon + forma]
+
+  [ Zakažite seansu ]
 
 ==
 
