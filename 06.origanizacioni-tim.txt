@@ -20,14 +20,6 @@ head:
   meta:description
     - "Upoznajte organizacioni tim Centra Inspera i način na koji koordiniramo rad terapeuta, zakazivanje termina, superviziju i podršku klijentima u Beogradu."
 
-body:
-
-(hero)
-┌──────────────────────────────────────────────────────────────┐
-│  ORGANIZACIONI TIM CENTRA INSPERA                            │
-│  (način rada + koordinacija terapeuta)                       │
-└──────────────────────────────────────────────────────────────┘
-
 ==
 
 H1: Organizacioni tim Centra Inspera
