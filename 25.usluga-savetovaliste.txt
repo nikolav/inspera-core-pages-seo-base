@@ -2,7 +2,7 @@
 title:
   "Psihološko savetovanje u Beogradu | Psihološko savetovalište – Centar Inspera"
 description:
-  "Psihološko savetovanje u Beogradu. Individualni razgovori, podrška u kriznim situacijama i mogućnost besplatnog savetovališta u određenim terminima. Centar Inspera."
+  "Psihološko savetovanje u Beogradu. Individualni razgovori, podrška u kriznim situacijama i mogućnost savetovališta u određenim terminima. Centar Inspera."
 
 `blade
   @push('schema')
