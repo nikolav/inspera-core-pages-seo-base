@@ -1,0 +1,62 @@
+
+title
+  "Online psihoterapija | Psihoterapija online – Centar Inspera"
+description:
+  "Online psihoterapija iz sigurnosti vašeg doma. Individualni rad putem video susreta, poverljiv i stručno vođen proces. Zakažite online seansu – Centar Inspera."
+
+`blade
+  @push('schema')
+    <x-seo.schema.usluga key="ID-usluge-u-config/schema" />
+  @endpush
+`
+
+==
+
+H1: Online psihoterapija
+
+Uvod, kratko
+Online psihoterapija omogućava rad sa psihoterapeutom
+putem video susreta, iz sigurnosti vašeg prostora.
+Proces je poverljiv, strukturisan i jednako profesionalan
+kao i rad uživo.
+
+  [ Zakaži online seansu ]  [Pošalji upit]  
+
+===
+  
+H2: Kako funkcioniše psihoterapija online?
+- Platforma (Zoom / Meet / druga)
+- Trajanje susreta (50 min)
+- Dinamika (1x nedeljno)
+- Tehnički uslovi
+- Način plaćanja
+
+==
+
+H2: Da li je online terapija efikasna?
+- Naučna istraživanja
+- Prednosti (fleksibilnost, dostupnost)
+- Kome posebno odgovara
+- Kada je bolje raditi uživo
+
+==
+
+H2: Siguran i poverljiv online prostor
+(jak trust blok)
+- Diskrecija i zaštita podataka
+- Profesionalne granice
+- Stručni tim
+- Supervizija
+
+==
+
+H2: Zakazivanje online termina
+- Kako zakazati
+- Ko vodi online rad
+- Kontakt
+- Forma
+
+  [ Zakaži online seansu ]
+  
+==
+

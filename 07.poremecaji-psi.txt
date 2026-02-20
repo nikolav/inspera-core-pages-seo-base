@@ -8,7 +8,7 @@
 
 ==
 
-🚨 Anksioznost (trenutna pokrivenost: 6/10)
+🔎 Anksioznost (trenutna pokrivenost: 6/10)
 najbolji lek za anksioznost
 anksioznost
 lekovi za anksioznost
@@ -29,7 +29,7 @@ da li se anksioznost moze izleciti
 terapija za anksioznost
 najdobar lek za anksioznost
 
-🚨 Napadi panike (trenutna pokrivenost: 8/10)
+🔎 Napadi panike (trenutna pokrivenost: 8/10)
 napad panike
 napad panike simptomi
 kako izgleda napad panike
@@ -43,7 +43,7 @@ panicni napadi simptomi
 kako izgleda napad anksioznosti
 napad panike kako izgleda
 
-🚨 Granični poremećaj ličnosti BPD (trenutna pokrivenost: 5/10)
+🔎 Granični poremećaj ličnosti BPD (trenutna pokrivenost: 5/10)
 granicni poremecaj licnosti iskustva
 granični poremećaj ličnosti
 granicni poremecaj licnosti i porodica
@@ -54,7 +54,7 @@ sta je granicni poremecaj licnosti
 granicni poremecaj licnosti i posao
 granicni poremecaj licnosti
 
-🚨 Burnout / Sindrom izgaranja (trenutna pokrivenost: 5/10)
+🔎 Burnout / Sindrom izgaranja (trenutna pokrivenost: 5/10)
 burnout sindrom
 burnout
 burnout simptomi
@@ -67,7 +67,7 @@ sindrom izgaranja na poslu
 burnout na poslu
 bolest burnout
 
-🚨 Imposter sindrom (trenutna pokrivenost: 6/10)
+🔎 Imposter sindrom (trenutna pokrivenost: 6/10)
 imposter sindrom
 imposter sindrom sta je
 sta je imposter sindrom
@@ -75,13 +75,13 @@ sta je imposter
 imposter
 импостер
 
-🚨 Patološka ljubomora (trenutna pokrivenost: 4/10)
+🔎 Patološka ljubomora (trenutna pokrivenost: 4/10)
 patoloska ljubomora
 patoloska ljubomora iskustva
 patološka ljubomora
 patoloska ljubav
 
-🚨 Empatija – deficit / poremećaj u funkcionisanju (trenutna pokrivenost: 9/10)
+🔎 Empatija – deficit / poremećaj u funkcionisanju (trenutna pokrivenost: 9/10)
 ljudi bez empatije
 nedostatak empatije
 nedostatak empatije kod odraslih

@@ -1,0 +1,79 @@
+
+title:
+  "Porodična i partnerska terapija (EFT) u Beogradu | Centar Inspera"
+description:
+  "Porodična i partnerska terapija u Beogradu (Novi Beograd). Emocionalno fokusirana terapija (EFT) za parove i porodice. Siguran prostor, stručno vođenje i zakazivanje termina – Centar Inspera."
+
+`blade
+  @push('schema')
+    <x-seo.schema.usluga key="ID-usluge-u-config/schema" />
+  @endpush
+`
+
+==
+
+H1: Porodična i partnerska terapija u Beogradu, EFT pristup
+
+Uvod, ukratko
+Porodična i partnerska terapija pomaže parovima i članovima
+porodice da razumeju obrasce odnosa, prevaziđu konflikte
+i izgrade sigurnu emocionalnu povezanost.
+
+  [ Zakaži partnerski razgovor ] [ Postavi pitanje ]  
+
+==
+  
+H2: Šta je porodična psihoterapija?
+
+- Kada je korisna
+- Rad sa parovima
+- Rad sa porodicama
+- Koliko traje proces
+
+==
+
+H2: Emocionalno fokusirana terapija (EFT terapija)
+
+- Šta je EFT
+- Kako funkcioniše u radu sa parovima
+- Naučna utemeljenost
+- Faze EFT procesa
+
+==
+
+H2: Kada se parovi javljaju na terapiju?
+- Učestali konflikti
+- Gubitak bliskosti
+- Neverstvo
+- Problemi u komunikaciji
+- Razvod / odluka o ostanku
+
+==
+
+H2: Kako izgleda proces partnerske terapije u Insperi?
+- Prvi susret
+- Postavljanje ciljeva
+- Dinamika susreta
+- Trajanje seanse (npr. 60–90 min)
+
+==
+
+H2: Siguran prostor i stručno vođenje
+- Licencirani psihoterapeuti
+- EFT edukacija (ako postoji)
+- Supervizija
+- Diskretan prostor (lokcaija..)
+
+==
+
+H2: Zakazivanje termina
+
+- Lokacija
+- Kontakt telefon
+- Email
+- Forma za zakazivanje
+
+  [ Zakaži termin ]
+
+==
+

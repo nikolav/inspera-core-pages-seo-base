@@ -1,0 +1,69 @@
+
+title:
+  "Grupna psihoterapija u Beogradu | Centar Inspera"
+description:
+  "Grupna psihoterapija u Beogradu (Novi Beograd). Strukturisan i siguran rad u maloj terapijskoj grupi uz vođenje licenciranog psihoterapeuta. Prijava u novu grupu – Centar Inspera."
+
+`blade
+  @push('schema')
+    <x-seo.schema.usluga key="ID-usluge-u-config/schema" />
+  @endpush
+`
+
+==
+
+H1: Grupna psihoterapija u Beogradu, Centar Inspera
+
+Uvod (par pasusa):
+Grupna psihoterapija je oblik rada u kome više učesnika
+u sigurnom i strukturisanom prostoru istražuje lične teme
+uz podršku terapeuta i grupe.
+
+  [ Prijavi se u grupu ]  [ Postavi pitanje ]
+
+==
+
+H2: Kako izgleda grupna psihoterapija?
+
+- Broj članova (npr. 6–8)
+- Trajanje susreta (90 min)
+- Dinamika (1x nedeljno)
+- Pravila poverljivosti
+- Uloga terapeuta
+
+==
+
+H2: Kome je namenjena grupna psihoterapija?
+- Osobe sa poteškoćama u odnosima
+- Poteškoće sa samopouzdanjem
+- Anksioznost u socijalnim situacijama
+- Rad na granicama i komunikaciji
+
+==
+
+H2: Zašto je rad u grupi drugačiji od individualne terapije?
+- Ogledalo odnosa
+- Autentična povratna informacija
+- Osećaj pripadnosti
+- Učenje kroz iskustvo
+
+==
+
+H2: Siguran prostor i profesionalno vođenje
+- Etika i poverljivost
+- Licencirani psihoterapeut
+- Stručna supervizija
+- Diskretan prostor
+
+==
+
+H2: Prijava u novu grupu
+
+- Kada počinje sledeći ciklus
+- Kako izgleda prijavni razgovor
+- Cena / broj mesta
+- Kontakt forma
+
+  [ Prijavi se u grupu ]
+
+==

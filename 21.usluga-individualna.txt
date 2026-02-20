@@ -4,6 +4,12 @@ title:
 description:
   "Individualna psihoterapija u Beogradu. Tim psihoterapeuta i terapeuta pod supervizijom. Siguran prostor, poverljiv rad i zakazivanje termina. Centar Inspera."
 
+`blade
+  @push('schema')
+    <x-seo.schema.usluga key="ID-usluge-u-config/schema" />
+  @endpush
+`
+
 ==
 
 H1: Individualna psihoterapija u Beogradu

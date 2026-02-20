@@ -1,0 +1,59 @@
+
+title
+  "Psihoterapija za decu u Beogradu | Centar Inspera"
+description:
+  "Psihoterapija za decu u Beogradu. Stručna podrška detetu i roditeljima kroz individualni rad i savetovanje. Siguran prostor i zakazivanje termina – Centar Inspera."
+
+`blade
+  @push('schema')
+    <x-seo.schema.usluga key="ID-usluge-u-config/schema" />
+  @endpush
+`
+
+==
+
+H1: Psihoterapija za decu u Beogradu
+
+Uvod ukratko
+Psihoterapija za decu pruža podršku detetu u razumevanju
+emocija, ponašanja i izazova kroz prilagođen, razvojno
+adekvatan pristup. Rad uključuje i saradnju sa roditeljima.
+
+  [ Zakaži razgovor ]  [ Pošalji upit ]  
+
+==
+  
+H2: Kada je detetu potrebna psihoterapija?
+- Povlačenje ili agresivnost
+- Strahovi i anksioznost
+- Problemi u školi
+- Poteškoće u vršnjačkim odnosima
+- Promene u porodici (razvod, gubitak)
+
+==
+
+H2: Kako izgleda proces rada sa detetom?
+- Inicijalni razgovor sa roditeljima
+- Procena potreba deteta
+- Individualne seanse (igra, crtež, razgovor)
+- Povremeni susreti sa roditeljima
+
+==
+
+H2: Stručni tim i siguran prostor
+- Psihoterapeut sa edukacijom za rad sa decom
+- Supervizija i etički standardi
+- Diskretan i bezbedan prostor
+
+==
+
+H2: Zakazivanje termina
+- Lokacija
+- Kontakt telefon
+- Email
+- Forma za zakazivanje
+
+[ Zakaži termin ]
+
+==
+

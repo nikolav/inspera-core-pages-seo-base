@@ -1,0 +1,51 @@
+
+title:
+  "Psihološko savetovanje u Beogradu | Psihološko savetovalište – Centar Inspera"
+description:
+  "Psihološko savetovanje u Beogradu. Individualni razgovori, podrška u kriznim situacijama i mogućnost besplatnog savetovališta u određenim terminima. Centar Inspera."
+
+`blade
+  @push('schema')
+    <x-seo.schema.usluga key="ID-usluge-u-config/schema" />
+  @endpush
+`
+
+==
+
+H1: Psihološko savetovanje u Beogradu, Centar Inspera
+
+Uvod, kratko
+Psihološko savetovanje predstavlja kraći i usmereniji oblik
+podrške namenjen osobama koje se suočavaju sa konkretnim
+životnim izazovima ili kriznim situacijama.
+
+  [ Zakaži razgovor ]  [ Postavi pitanje ]  
+
+==
+  
+H2: Šta je psihološko savetovanje?
+- Razlika u odnosu na psihoterapiju
+- Kada je savetovanje adekvatno
+- Trajanje i dinamika susreta
+
+==
+
+H2: Stručni tim i poverljiv rad
+- Psiholog / psihoterapeut
+- Etički kodeks
+- Supervizija
+- Siguran prostor
+
+==
+
+H2: Zakazivanje termina
+
+- Kontakt telefon
+- Email
+- Forma
+- Lokacija
+
+  [ Zakaži termin ]
+
+==
+
