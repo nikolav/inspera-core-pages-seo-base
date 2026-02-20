@@ -2,6 +2,7 @@
 - pretrage grupisane na osnovu vrste trazene usluge
 - svaka grupa na svoju stranu
 - doraditi blogove ili postojece strane sekcijama h1/h2 optimizovanim za ove upite
+- linkovati sa /home strane, sekcija 'h2: Kako vam možemo pomoći?'
 
 ==
 
