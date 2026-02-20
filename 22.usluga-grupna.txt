@@ -2,7 +2,7 @@
 title:
   "Grupna psihoterapija u Beogradu | Centar Inspera"
 description:
-  "Grupna psihoterapija u Beogradu (Novi Beograd). Strukturisan i siguran rad u maloj terapijskoj grupi uz vođenje licenciranog psihoterapeuta. Prijava u novu grupu – Centar Inspera."
+  "Grupna psihoterapija u Beogradu. Strukturisan i siguran rad u maloj terapijskoj grupi uz vođenje licenciranog psihoterapeuta. Prijava u novu grupu – Centar Inspera."
 
 `blade
   @push('schema')

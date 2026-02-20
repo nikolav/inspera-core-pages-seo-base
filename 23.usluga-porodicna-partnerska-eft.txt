@@ -2,7 +2,7 @@
 title:
   "Porodična i partnerska terapija (EFT) u Beogradu | Centar Inspera"
 description:
-  "Porodična i partnerska terapija u Beogradu (Novi Beograd). Emocionalno fokusirana terapija (EFT) za parove i porodice. Siguran prostor, stručno vođenje i zakazivanje termina – Centar Inspera."
+  "Porodična i partnerska terapija u Beogradu. Emocionalno fokusirana terapija (EFT) za parove i porodice. Siguran prostor, stručno vođenje i zakazivanje termina – Centar Inspera."
 
 `blade
   @push('schema')
