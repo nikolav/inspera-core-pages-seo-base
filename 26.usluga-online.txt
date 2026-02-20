@@ -22,6 +22,14 @@ kao i rad uživo.
 
   [ Zakaži online seansu ]  [Pošalji upit]  
 
+==
+
+H2: Da li je online terapija efikasna?
+- Naučna istraživanja
+- Prednosti (fleksibilnost, dostupnost)
+- Kome posebno odgovara
+- Kada je bolje raditi uživo
+
 ===
   
 H2: Kako funkcioniše psihoterapija online?
@@ -30,14 +38,6 @@ H2: Kako funkcioniše psihoterapija online?
 - Dinamika (1x nedeljno)
 - Tehnički uslovi
 - Način plaćanja
-
-==
-
-H2: Da li je online terapija efikasna?
-- Naučna istraživanja
-- Prednosti (fleksibilnost, dostupnost)
-- Kome posebno odgovara
-- Kada je bolje raditi uživo
 
 ==
 
