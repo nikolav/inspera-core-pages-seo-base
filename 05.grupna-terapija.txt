@@ -10,18 +10,15 @@ head
     "Grupna psihoterapija u Centru Inspera u Beogradu. Psihodramska grupa ponedeljkom, podrška terapeuta, prijava i detalji o uključivanju."
 
 ┌───────────────────────────────────────────────┐
-│ H1: Grupna psihoterapija u Beogradu           │
-│     Centar Inspera                            │
-└───────────────────────────────────────────────┘
-  Kratak uvod:
-  Grupna terapija je siguran prostor za rad na emocijama,
-  odnosima i ličnom razvoju uz podršku terapeuta i grupe.
-  - terapijski rad u grupi uz stručnog vodiča
-  - pomaže kod anksioznosti, depresije, odnosa
-  (odmah prijave)
-┌───────────────────────────────────────────────┐
-│        [ Upitnik za prijavu ]                 │
-│     Ponedeljkom • Beograd • 2.500 RSD         │
+│ H1: Grupna psihoterapija u Beogradu, Centar Inspera
+|  Kratak uvod:
+|  Grupna terapija je siguran prostor za rad na emocijama,
+|  odnosima i ličnom razvoju uz podršku terapeuta i grupe.
+|  - terapijski rad u grupi uz stručnog vodiča
+|  - pomaže kod anksioznosti, depresije, odnosa
+|
+│        [ Upitnik za prijavu ]                 
+│     Ponedeljkom • Beograd • 2.500 RSD         
 └───────────────────────────────────────────────┘
 
 ┌───────────────────────────────────────────────┐
