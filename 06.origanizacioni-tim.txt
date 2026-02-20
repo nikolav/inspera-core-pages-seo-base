@@ -1,7 +1,7 @@
 🧭 strana 'organizacioni-tim'
 skroman naslov i cetiri slike sa imenima
 malo sadrzaja da pretrazivac sklopi sliku o cemu se radi na ovoj strani
-primarni cilj ovde je da strana ulije vise poverenja korisnicima rad centra (trust seo)
+primarni cilj ovde je da strana ulije vise poverenja korisnicima u rad centra (trust seo)
 korisno za korisnike pred zakazivanje, i za google 'kontrolu kvaliteta'
 
 🎯rangira za:
